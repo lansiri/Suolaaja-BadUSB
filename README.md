@@ -29,7 +29,7 @@ This script automates the deployment of a Salt Minion to a target machine via a 
 
 ## Requirements
 1. **Hardware**: 
-   - Arduino-compatible HID device (e.g., Digispark, Arduino Leonardo, etc.).
+   - Arduino-compatible HID device (e.g., pro micro, etc.).
 2. **Software**:
    - Arduino IDE installed on your computer.
    - Required libraries: `Keyboard` and `KeyboardLayout_sv_SE`.
