@@ -53,6 +53,8 @@ Replace 127.0.0.1 with your desired Salt Master's IP address. For example:
 String masterIP = "192.168.1.100";
 ```
 
+Replace `KeyboardLayout_sv_SE` with target keyboard layout.
+
 ### 3. Uploading the Code
 - Open the Arduino IDE.
 - Select your HID device from **Tools > Board**.
